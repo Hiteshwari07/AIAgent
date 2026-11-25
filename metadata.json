@@ -1,0 +1,7 @@
+{
+  "name": "PostPilot AI Poster Engine",
+  "description": "Hybrid AI poster generator combining cinematic AI backgrounds with vector typography, real product integration, and zero text hallucinations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+

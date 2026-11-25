@@ -1,0 +1,13 @@
+node_modules/
+build/
+dist/
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example
+.social_credentials.json
+.social_publish_history.json
+.make_instagram_config.json
+.zernio_state.json
+.studio_data.json
